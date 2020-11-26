@@ -1,0 +1,180 @@
+#title {
+background-color: #ff4c68;
+padding-bottom: 20px;
+}
+h1{
+  font-family: 'Montserrat-black ', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 4.5rem;
+  color: white;
+}
+
+.navbar-brand-lg{
+  font-size: 2.5rem;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+}
+.container-fluid{
+  padding: 2% 15% 5%;
+
+}
+
+
+.iphone{
+  transform: rotate(25deg);
+  width: 60%;
+  position: absolute;
+  padding-top: 10%;
+  right: 20%;
+}
+
+@media (max-width:1028px) {
+  .iphone{
+    position: static;
+    transform: rotate(0);
+  }
+#title{
+  text-align: center;
+}
+}
+body{
+  font-family:'Montserrat', sans-serif;
+}
+
+.nav-item{
+  padding: 0 15px;
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+
+.tin{
+  padding-left: 0
+}
+
+.but{
+  margin: 5% 3% 5% 0;
+}
+
+.font1 {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.goku{
+  text-align: center;
+  padding: 2% 5%
+}
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+.fa-3x{
+  color: #ef8172;
+  padding-bottom: 1rem;
+}
+.col-lg-4{
+  padding: 5% 0;
+}
+
+.fa-3x:hover{
+  color: red;
+}
+
+.lol {
+  color: #8f8f8f;
+  margin: 0 20%;
+}
+
+#testimonials{
+  text-align:center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.a1 {
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%
+}
+
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3% 0
+}
+
+.z {
+  width: 15%;
+  margin: 20px 20px 10px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.col-lg-4 {
+  padding-top: 5%;
+  padding-bottom: 0;
+
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.card22{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+ .a2{
+   color: #8f8f8f;
+ }
+
+#features{
+  background-color: #fff;
+  position: relative;
+  padding: 5% 15%;
+}
+#cta{
+  background-color: #FF4C68;
+  text-align: center;
+
+}
+
+.LOLOO{
+  padding: 8% 0 1% ;
+  font-family: "Montserrat-black",sans-serif ;
+  font-weight: bolder;
+  font-size: 3.5REM;
+  color: white;
+  margin: 0 20%
+}
+
+.BUT1{
+  MARGIN: 3% 1% 7% ;
+}
+.lOOTER{
+   text-align: center;
+   background: #fff;
+ }
+.lolala{
+  padding: 5% 1% 2% ;
+
+}
+.popl{
+  padding-bottom: 7%;
+  color: #8f8f8f;
+  font-size: 1.3rem;
+}
